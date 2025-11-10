@@ -152,8 +152,8 @@ graph TD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/finos-labs/dtcc-i-h-2025-drishtikon.git
-   cd dtcc-i-h-2025-drishtikon
+   git clone https://github.com/Ayush-div/Investica
+   cd Investica
    ```
 
 2. **Set up virtual environment**
